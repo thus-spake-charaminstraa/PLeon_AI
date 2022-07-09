@@ -1,0 +1,33 @@
+ch/sbb/mobile/ml/OverlayView.java
+ ch.sbb.mobile.ml.OverlayView
+ ch.sbb.mobile.ml.OverlayView$DrawCallback
+ch/sbb/mobile/ml/ImageUtils.java
+ ch.sbb.mobile.ml.ImageUtils
+ ch.sbb.mobile.ml.ImageUtils$CompareSizesByArea
+ch/sbb/mobile/ml/MLFragment.java
+ ch.sbb.mobile.ml.MLFragment
+ ch.sbb.mobile.ml.MLFragment$1
+ch/sbb/mobile/ml/TFLiteObjectDetector.java
+ ch.sbb.mobile.ml.TFLiteObjectDetector
+ch/sbb/mobile/ml/BuildConfig.java
+ ch.sbb.mobile.ml.BuildConfig
+ch/sbb/mobile/ml/MLSettings.java
+ ch.sbb.mobile.ml.MLSettings
+ ch.sbb.mobile.ml.MLSettings$Processor
+ch/sbb/mobile/ml/AutoFitTextureView.java
+ ch.sbb.mobile.ml.AutoFitTextureView
+ch/sbb/mobile/ml/CameraPreview.java
+ ch.sbb.mobile.ml.CameraPreview
+ ch.sbb.mobile.ml.CameraPreview$1
+ ch.sbb.mobile.ml.CameraPreview$2
+ ch.sbb.mobile.ml.CameraPreview$3
+ch/sbb/mobile/ml/MLRecognition.java
+ ch.sbb.mobile.ml.MLRecognition
+ch/sbb/mobile/ml/MLView.java
+ ch.sbb.mobile.ml.MLView
+ ch.sbb.mobile.ml.MLView$1
+ ch.sbb.mobile.ml.MLView$DetectionListener
+ ch.sbb.mobile.ml.MLView$STATE
+ch/sbb/mobile/ml/FrameProcessor.java
+ ch.sbb.mobile.ml.FrameProcessor
+ ch.sbb.mobile.ml.FrameProcessor$FrameProcessorListener

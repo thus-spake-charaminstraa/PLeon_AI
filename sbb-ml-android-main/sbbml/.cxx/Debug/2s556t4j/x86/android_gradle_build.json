@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/junehyeok/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/.cxx/Debug/2s556t4j/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/junehyeok/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/.cxx/Debug/2s556t4j/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "sbbml-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/junehyeok/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/.cxx/Debug/2s556t4j/x86",
+        "sbbml"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "sbbml",
+      "output": "/Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/build/intermediates/cxx/Debug/2s556t4j/obj/x86/libsbbml.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

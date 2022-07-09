@@ -1,0 +1,18 @@
+ext["ossrhUsername"] = System.getenv('SONATYPE_USERNAME')
+ext["ossrhPassword"] = System.getenv('SONATYPE_PASSWORD')
+ext["sonatypeStagingProfileId"] = System.getenv('SONATYPE_STAGINGPROFILEID')
+ext["signing.keyId"] = System.getenv('PGP_KEYID')
+ext["signing.password"] = System.getenv('PGP_PASSWORD')
+ext["signing.key"] = System.getenv('PGP_KEY')
+
+nexusPublishing {
+    repositories {
+        sonatype {
+            stagingProfileId = sonatypeStagingProfileId
+            nexusUrl.set(uri("https://oss.sonatype.org/service/local/"))
+            snapshotRepositoryUrl.set(uri("https://oss.sonatype.org/content/repositories/snapshots/"))
+            username = ossrhUsername
+            password = ossrhPassword
+        }
+    }
+}

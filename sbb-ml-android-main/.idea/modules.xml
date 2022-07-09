@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SBB_ML.iml" filepath="$PROJECT_DIR$/.idea/modules/SBB_ML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.iml" filepath="$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demoapp/SBB_ML.demoapp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.iml" filepath="$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sbbml/SBB_ML.sbbml.unitTest.iml" />
+    </modules>
+  </component>
+</project>

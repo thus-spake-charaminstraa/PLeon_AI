@@ -1,0 +1,7 @@
+Executable : /Users/junehyeok/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/.cxx/Debug/2s556t4j/armeabi-v7a
+sbbml
+jvmArgs : 
+

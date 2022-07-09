@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:1:70-96
+		INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+		INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:2:5-65
+	android:name
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:2:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:3:5-60
+	android:name
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:3:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml:4:19-67
+uses-sdk
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+		INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+		ADDED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml
+		INJECTED from /Users/junehyeok/Desktop/sbb-ml-android-main/sbbml/src/main/AndroidManifest.xml

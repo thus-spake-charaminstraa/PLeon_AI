@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: SBB
+Upstream-Contact: SBB AG <mobile@sbb.ch>
+Source: https://github.com/SchweizerischeBundesbahnen/mobile-android-ml
+
+# Source code of SBB ML
+Files:
+    app/*.*
+    inference/src/*.*
+Copyright: 2021 SBB AG <mobile@sbb.ch>
+License: MIT
+
+# Source code of Tensorflow Authors
+Files:
+    inference/src/main/cpp/*.*
+Copyright: 2015 Tensoflow Authors
+License: Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0

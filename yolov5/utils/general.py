@@ -646,6 +646,7 @@ def labels_to_class_weights(labels, nc=80):
     weights[weights == 0] = 1  # replace empty bins with 1
     weights = 1 / weights  # number of targets per class
     weights /= weights.sum()  # normalize
+    #return (torch.from_numpy(weights)).type(torch.FloatTensor) #여기 차준혁이 고친 부분
     return torch.from_numpy(weights)
 
 
